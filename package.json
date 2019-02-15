@@ -1,0 +1,19 @@
+{
+  "name": "easywebserver",
+  "version": "1.0.0",
+  "description": "Just a little node express application to host hanhs website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GFdiablo117/EasyWebserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GFdiablo117/EasyWebserver/issues"
+  },
+  "homepage": "https://github.com/GFdiablo117/EasyWebserver#readme"
+}
